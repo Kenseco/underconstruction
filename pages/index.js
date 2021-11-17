@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="糟糕,看起來不妙..." />
-
-      <nuxt-img src="https://kooco.oss-cn-hongkong.aliyuncs.com/under_construct.png" />
+        <div style="position: absolute;top: 100px;max-width: 100%;"> <img src="https://kooco.oss-cn-hongkong.aliyuncs.com/under_construct.png" with="600" heigh="400" alt="圖片"></div>
+       
       </main>
 
       <Footer />
