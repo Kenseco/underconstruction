@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="糟糕,看起來不妙..." />
      
-      <img src="https://kooco.oss-cn-hongkong.aliyuncs.com/under_construct.png" with="600" heigh="400" alt="一張圖片"></img>
+      <img style="top:100px;position: absolute;max-width: 100%;" src="https://kooco.oss-cn-hongkong.aliyuncs.com/under_construct.png" with="600" heigh="400" alt="一張圖片"></img>
       </main>
 
       <Footer />
