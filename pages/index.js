@@ -12,9 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="糟糕,看起來不妙..." />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+     
       <img src="https://kooco.oss-cn-hongkong.aliyuncs.com/under_construct.png" with="600" heigh="400" alt="一張圖片">
       </main>
 
